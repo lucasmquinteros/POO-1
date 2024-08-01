@@ -1,0 +1,14 @@
+C:\Users\LyJ\source\repos\POO\POO-1\bin\Debug\net8.0\POO-1.exe
+C:\Users\LyJ\source\repos\POO\POO-1\bin\Debug\net8.0\POO-1.deps.json
+C:\Users\LyJ\source\repos\POO\POO-1\bin\Debug\net8.0\POO-1.runtimeconfig.json
+C:\Users\LyJ\source\repos\POO\POO-1\bin\Debug\net8.0\POO-1.dll
+C:\Users\LyJ\source\repos\POO\POO-1\bin\Debug\net8.0\POO-1.pdb
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\POO-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\POO-1.AssemblyInfoInputs.cache
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\POO-1.AssemblyInfo.cs
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\POO-1.csproj.CoreCompileInputs.cache
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\POO-1.dll
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\refint\POO-1.dll
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\POO-1.pdb
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\POO-1.genruntimeconfig.cache
+C:\Users\LyJ\source\repos\POO\POO-1\obj\Debug\net8.0\ref\POO-1.dll
