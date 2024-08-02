@@ -1,0 +1,15 @@
+C:\Users\LyJ\source\repos\POO\Clase\bin\Debug\net8.0\Clase.exe
+C:\Users\LyJ\source\repos\POO\Clase\bin\Debug\net8.0\Clase.deps.json
+C:\Users\LyJ\source\repos\POO\Clase\bin\Debug\net8.0\Clase.runtimeconfig.json
+C:\Users\LyJ\source\repos\POO\Clase\bin\Debug\net8.0\Clase.dll
+C:\Users\LyJ\source\repos\POO\Clase\bin\Debug\net8.0\Clase.pdb
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.AssemblyInfoInputs.cache
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.AssemblyInfo.cs
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.csproj.CoreCompileInputs.cache
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.sourcelink.json
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.dll
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\refint\Clase.dll
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.pdb
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\Clase.genruntimeconfig.cache
+C:\Users\LyJ\source\repos\POO\Clase\obj\Debug\net8.0\ref\Clase.dll
